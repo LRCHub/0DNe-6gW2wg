@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕は嘘つき、君は沙希",
+  "base_artist": "Blue Mash",
+  "createdAt": "2025-12-10T11:01:39.853191Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕は嘘つき、君は沙希",
+      "artist": "Blue Mash",
+      "has_synced": false,
+      "path": "select/pl_01_僕は嘘つき、君は沙希_Blue_Mash.txt"
+    }
+  ]
+}
